@@ -16,6 +16,9 @@
         app:layout_constraintTop_toTopOf="parent" />
 
     <TextView
-        android:text="Akila" />
+        android:text="Akila"
+        tools:layout_editor_absoluteX="147dp"
+        tools:layout_editor_absoluteY="57dp" />
+
 
 </androidx.constraintlayout.widget.ConstraintLayout>
